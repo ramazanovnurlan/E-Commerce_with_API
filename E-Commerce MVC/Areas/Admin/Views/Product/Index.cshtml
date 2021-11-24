@@ -1,0 +1,181 @@
+﻿@model IEnumerable<E_Commerce_MVC.Areas.Admin.Models.AllMenu.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+<style>
+    .page-item.active .page-link {
+        background-color: #55BEFFFF;
+        border-color: #55BEFFFF;
+    }
+</style>
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css" />
+<link href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table id="ProductTable" class="table">
+    <thead id="ProductTableTitle">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Created)
+            </th>
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody id="ProductTableData">
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.ID)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Created)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.ID }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.ID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.ID })
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+<br>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script>
+
+    <script>
+
+        $(document).ready(function () {
+            $('#ProductTable').DataTable();
+        });
+
+
+    </script>
+
+    @*<script>
+
+            $(document).ready(function () {
+
+                //SearchProduct(live)-----------------------------------------------------------------------------//
+
+                $('#search_text').keyup(function () {
+                    var _search = ($("#search_text").val()).trim().toLowerCase();
+                    console.log(_search);
+
+                    if (_search != '' && _search != null && _search != undefined) {
+                        $("#ProductTableData").empty();
+
+                        $.ajax({
+                            type: "Post",
+                            url: "/Admin/Product/SearchedProduct",
+                            data: { search: _search },
+                            success: function (response) {
+
+                                if (response != 0 && response != null) {
+                                    for (let f of response) {
+
+                                        $("#ProductTableData").append(`<tr><td>${f.id}</td><td>${f.name}</td><td>${f.price}</td><td><a href="/Admin/Product/Edit/${f.id}">Edit</a> | <a href="/Admin/Product/Details/${f.id}">Details</a> | <a href="/Admin/Product/Delete/${f.id}">Delete</a></td></tr>`);
+                                    }
+
+                                    //$.each(response, function (index, value) {
+                                    //    var data = "<tr>" +
+                                    //        "<td>" + value.id + "</td>" +
+                                    //        "<td>" + value.name + "</td>" +
+                                    //        "<td>" + value.price + "</td>" +
+                                    //        "<tr>";
+                                    //    $("#ProductTableData").append(data);
+                                    //});
+                                }
+                            }
+
+                        });
+                    }
+                    else if (_search == '') {
+                        $("#ProductTableData").empty();
+
+                        $.ajax({
+                            type: "Post",
+                            url: "/Admin/Product/SearchedProduct",
+                            data: { search: _search },
+                            success: function (response) {
+
+                                if (response != 0 && response != null) {
+                                    for (let f of response) {
+
+                                        $("#ProductTableData").append(`<tr><td>${f.id}</td><td>${f.name}</td><td>${f.price}</td><td><a href="/Admin/Product/Edit/${f.id}">Edit</a> | <a href="/Admin/Product/Details/${f.id}">Details</a> | <a href="/Admin/Product/Delete/${f.id}">Delete</a></td></tr>`);
+                                    }
+                                }
+                            }
+
+                        });
+                    }
+
+                });
+
+
+                //SearchProduct-----------------------------------------------------------------------------------//
+
+                $("#search_btn").click(function () {
+
+                    var _search = ($("#search_text").val()).trim().toLowerCase();
+
+                    if (_search != '' && _search != null && _search != undefined) {
+                        $("#ProductTableData").empty();
+
+                        $.ajax({
+                            type: "Post",
+                            url: "/Admin/Product/SearchedProduct",
+                            data: { search: _search },
+                            success: function (response) {
+
+                                if (response != 0 && response != null) {
+                                    for (let f of response) {
+
+                                        $("#ProductTableData").append(`<tr><td>${f.id}</td><td>${f.name}</td><td>${f.price}</td><td><a href="/Admin/Product/Edit/${f.id}">Edit</a> | <a href="/Admin/Product/Details/${f.id}">Details</a> | <a href="/Admin/Product/Delete/${f.id}">Delete</a></td></tr>`);
+                                    }
+                                }
+                            }
+
+                        });
+                    }
+                });
+
+            });
+
+
+        </script>*@
+
+}

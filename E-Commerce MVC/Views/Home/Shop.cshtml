@@ -1,0 +1,1061 @@
+﻿@*@model E_Commerce_MVC.Areas.Admin.Models.AllMenu.ProductFilter*@
+@model E_Commerce_MVC.Areas.Admin.Models.AllMenu.Product_and_ProductFilter
+@*@model IEnumerable<E_Commerce_MVC.Areas.Admin.Models.AllMenu.Product_and_ProductFilter>*@
+
+
+@{
+    ViewData["Title"] = "Shop";
+    Layout = "~/Views/Shared/E-CommerceLayout.cshtml";
+}
+
+<link rel="stylesheet" href="~/css/pagination.css">
+
+<!-- NAVIGATION -->
+<div id="navigation">
+    <!-- container -->
+    <div class="container">
+        <div id="responsive-nav">
+            <!-- category nav -->
+            <div class="category-nav show-on-click">
+                <span class="category-header">Categories <i class="fa fa-list"></i></span>
+                <ul class="category-list">
+                    <li class="dropdown side-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Fashion <i class="fa fa-angle-right"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row hidden-sm hidden-xs">
+                                <div class="col-md-12">
+                                    <hr>
+                                    <a class="banner banner-1" href="#">
+                                        <img src="~/img/banner05.jpg" alt="">
+                                        <div class="banner-caption text-center">
+                                            <h2 class="white-color">NEW COLLECTION</h2>
+                                            <h3 class="white-color font-weak">HOT DEAL</h3>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="dropdown side-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Electronics <i class="fa fa-angle-right"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Small Appliances</h3>
+                                        </li>
+                                        <li><a href="#">Coffee machine</a></li>
+                                        <li><a href="#">Tea machine</a></li>
+                                        <li><a href="#">Blender</a></li>
+                                        <li><a href="#">Toast machine</a></li>
+                                        <li><a href="#">Waffle Maker</a></li>
+                                        <li><a href="#">Iron</a></li>
+                                        <li><a href="#">Robot Vacuum Cleaner</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Telephone</h3>
+                                        </li>
+
+                                        @foreach (var item in Model.ProductFilter.Submenus)
+                                        {
+                                            <li><a id="submenu" asp-controller="Home" asp-action="Shop" asp-route-id="@item.ID" data-id="@item.ID">@item.Name</a></li>
+                                        }
+
+
+
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Computer & Tablet</h3>
+                                        </li>
+                                        <li><a href="#">Laptop</a></li>
+                                        <li><a href="#">Mouse</a></li>
+                                        <li><a href="#">Keyboard</a></li>
+                                        <li><a href="#">Tablet</a></li>
+                                        <li><a href="#">Gaming PC</a></li>
+                                        <li><a href="#">ADSL & VDSL</a></li>
+                                        <li><a href="#">Accessories</a></li>
+                                        <li><a href="#">Cable & Chargers</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Game Consoles</h3>
+                                        </li>
+                                        <li><a href="#">Playstation</a></li>
+                                        <li><a href="#">Xbox</a></li>
+                                        <li><a href="#">Nintendo</a></li>
+                                        <li><a href="#">Console Accessories</a></li>
+                                        <li><a href="#">E-pin and Wallet Code</a></li>
+                                        <li><a href="#">Playstation 5</a></li>
+                                        <li><a href="#">Playstation Games</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Personal care</h3>
+                                        </li>
+                                        <li><a href="#">Hair Straightener</a></li>
+                                        <li><a href="#">Shaving Machine</a></li>
+                                        <li><a href="#">Hair Curler</a></li>
+                                        <li><a href="#">Hair dryer</a></li>
+                                        <li><a href="#">Hair Removal Tool</a></li>
+                                        <li><a href="#">Playstation Games</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Household appliances</h3>
+                                        </li>
+                                        <li><a href="#">Refrigerator</a></li>
+                                        <li><a href="#">Washing machine</a></li>
+                                        <li><a href="#">Dishwasher</a></li>
+                                        <li><a href="#">Built-in</a></li>
+                                        <li><a href="#">Mini Oven</a></li>
+                                        <li><a href="#">Air conditioning</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">TV & Sound</h3>
+                                        </li>
+                                        <li><a href="#">Television</a></li>
+                                        <li><a href="#">Headphone</a></li>
+                                        <li><a href="#">Speaker</a></li>
+                                        <li><a href="#">Cable</a></li>
+                                        <li><a href="#">Microphone</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Data Storage</h3>
+                                        </li>
+                                        <li><a href="#">External Disk</a></li>
+                                        <li><a href="#">USB Memory</a></li>
+                                        <li><a href="#">SSD Memory</a></li>
+                                        <li><a href="#">Memory card</a></li>
+                                    </ul>
+                                </div>
+
+                                @*<div class="col-md-4 hidden-sm hidden-xs">
+                                        <a class="banner banner-2" href="#">
+                                            <img src="./img/banner04.jpg" alt="">
+                                            <div class="banner-caption">
+                                                <h3 class="white-color">NEW<br>COLLECTION</h3>
+                                            </div>
+                                        </a>
+                                    </div>*@
+
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">HOME & LIVE</a></li>
+                    <li><a href="#">Health & Beauty</a></li>
+                    <li class="dropdown side-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Jewelry & Watches <i class="fa fa-angle-right"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">View All</a></li>
+                </ul>
+            </div>
+            <!-- /category nav -->
+            <!-- menu nav -->
+            <div class="menu-nav">
+                <span class="menu-header">Menu <i class="fa fa-bars"></i></span>
+                <ul class="menu-list">
+                    <li class="dropdown mega-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Fashion <i class="fa fa-angle-down"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row hidden-sm hidden-xs">
+                                <div class="col-md-12">
+                                    <hr>
+                                    <a class="banner banner-1" href="#">
+                                        <img src="~/img/banner05.jpg" alt="">
+                                        <div class="banner-caption text-center">
+                                            <h2 class="white-color">NEW COLLECTION</h2>
+                                            <h3 class="white-color font-weak">HOT DEAL</h3>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="dropdown mega-dropdown full-width">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Electronics <i class="fa fa-angle-down"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Telephone</a></h3>
+                                        </li>
+                                        <li><a href="#">Mobile phones</a></li>
+                                        <li><a href="#">Cover & Case</a></li>
+                                        <li><a href="#">Chargers</a></li>
+                                        <li><a href="#">Powerbank</a></li>
+                                        <li><a href="#">Accessories</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Computer & Tablet</a></h3>
+                                        </li>
+                                        <li><a href="#">Laptop</a></li>
+                                        <li><a href="#">Mouse</a></li>
+                                        <li><a href="#">Keyboard</a></li>
+                                        <li><a href="#">Tablet</a></li>
+                                        <li><a href="#">Gaming PC</a></li>
+                                        <li><a href="#">ADSL & VDSL</a></li>
+                                        <li><a href="#">Accessories</a></li>
+                                        <li><a href="#">Cable & Chargers</a></li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Small Appliances</a></h3>
+                                        </li>
+                                        <li><a href="#">Coffee machine</a></li>
+                                        <li><a href="#">Tea machine</a></li>
+                                        <li><a href="#">Blender</a></li>
+                                        <li><a href="#">Toast machine</a></li>
+                                        <li><a href="#">Waffle Maker</a></li>
+                                        <li><a href="#">Iron</a></li>
+                                        <li><a href="#">Kettle & Kettle</a></li>
+                                        <li><a href="#">Broom</a></li>
+                                        <li><a href="#">Robot Vacuum Cleaner</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">TV & Sound</a></h3>
+                                        </li>
+                                        <li><a href="#">Television</a></li>
+                                        <li><a href="#">Headphone</a></li>
+                                        <li><a href="#">Speaker</a></li>
+                                        <li><a href="#">Cable</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Game Consoles</a></h3>
+                                        </li>
+                                        <li><a href="#">Playstation</a></li>
+                                        <li><a href="#">Xbox</a></li>
+                                        <li><a href="#">Nintendo</a></li>
+                                        <li><a href="#">Console Accessories</a></li>
+                                        <li><a href="#">E-pin and Wallet Code</a></li>
+                                        <li><a href="#">Playstation 5</a></li>
+                                        <li><a href="#">Playstation Games</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Household appliances</a></h3>
+                                        </li>
+                                        <li><a href="#">Refrigerator</a></li>
+                                        <li><a href="#">Washing machine</a></li>
+                                        <li><a href="#">Dishwasher</a></li>
+                                        <li><a href="#">Built-in</a></li>
+                                        <li><a href="#">Mini Oven</a></li>
+                                        <li><a href="#">Air conditioning</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Personal care</a></h3>
+                                        </li>
+                                        <li><a href="#">Hair Straightener</a></li>
+                                        <li><a href="#">Shaving Machine</a></li>
+                                        <li><a href="#">Hair Curler</a></li>
+                                        <li><a href="#">Hair Dryer</a></li>
+                                        <li><a href="#">Hair Removal Tool</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Data Storage</a></h3>
+                                        </li>
+                                        <li><a href="#">External Disk</a></li>
+                                        <li><a href="#">USB Memory</a></li>
+                                        <li><a href="#">SSD Memory</a></li>
+                                        <li><a href="#">Memory Card</a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">HOME & LIVE</a></li>
+                    <li><a href="#">Health & Beauty</a></li>
+                    <li><a href="#">JEWELRY & WATCHES</a></li>
+
+                </ul>
+            </div>
+            <!-- menu nav -->
+        </div>
+    </div>
+    <!-- /container -->
+</div>
+<!-- /NAVIGATION -->
+<!-- BREADCRUMB -->
+<div id="breadcrumb">
+    <div class="container">
+        <ul class="breadcrumb">
+            <li><a asp-controller="Home" asp-action="Index">Index</a></li>
+            <li class="active"><a asp-controller="Home" asp-action="Shop">Shop</a></li>
+        </ul>
+    </div>
+</div>
+<!-- /BREADCRUMB -->
+<!-- section -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <!-- ASIDE -->
+            <div id="aside" class="col-md-3 filterList">
+                <!-- aside widget -->
+                @*<div class="aside">
+                        <h3 class="aside-title">Shop by:</h3>
+                        <ul class="filter-list">
+                            <li><span class="text-uppercase">color:</span></li>
+                            <li><a href="#" style="color:#FFF; background-color:#8A2454;">Camelot</a></li>
+                            <li><a href="#" style="color:#FFF; background-color:#475984;">East Bay</a></li>
+                            <li><a href="#" style="color:#FFF; background-color:#BF6989;">Tapestry</a></li>
+                            <li><a href="#" style="color:#FFF; background-color:#9A54D8;">Medium Purple</a></li>
+                        </ul>
+
+                        <ul class="filter-list">
+                            <li><span class="text-uppercase">Size:</span></li>
+                            <li><a href="#">X</a></li>
+                            <li><a href="#">XL</a></li>
+                        </ul>
+
+                        <ul class="filter-list">
+                            <li><span class="text-uppercase">Price:</span></li>
+                            <li><a href="#">MIN: $20.00</a></li>
+                            <li><a href="#">MAX: $120.00</a></li>
+                        </ul>
+
+                        <ul class="filter-list">
+                            <li><span class="text-uppercase">Gender:</span></li>
+                            <li><a href="#">Men</a></li>
+                        </ul>
+
+                        <button class="primary-btn">Clear All</button>
+                    </div>*@
+                <!-- /aside widget -->
+                <!-- aside widget -->
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Brand</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.Brands)
+                                {
+                                    <input class="common_selector brand" type="checkbox" value="@item.ID">
+                                    <label>@item.Name</label><br>
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Price</h3>
+
+                    <div class="input-group input-group-sm mb-3">
+                        <input class="priceFilter minPrice" type="text" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" placeholder="Min($)">
+                        <input class="priceFilter maxPrice" type="text" class="form-control" aria-label="Small" aria-describedby="inputGroup-sizing-sm" placeholder="Max($)">
+                        <button type="button" class="priceBtn"><i class="fa fa-search" aria-hidden="true"></i></button>
+
+                    </div>
+
+                </div>
+
+                <!--<div class="aside">
+                    <h3 class="aside-title">Filter By Color</h3>
+                    <ul class="color-option">
+                        <li><a href="#" style="background-color:#475984;"></a></li>
+                        <li><a href="#" style="background-color:#8A2454;"></a></li>-->
+                @*<li class="active"><a href="#" style="background-color:#BF6989;"></a></li>*@
+                <!--<li><a href="#" style="background-color:#9A54D8;"></a></li>
+                        <li><a href="#" style="background-color:#675F52;"></a></li>
+                        <li><a href="#" style="background-color:#050505;"></a></li>
+                        <li><a href="#" style="background-color:#D5B47B;"></a></li>
+                    </ul>
+                </div>
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter By Color</h3>
+
+                    <button type="button" class="btn-circle"></button>
+                    <button type="button" class="btn-circle"></button>
+                    <button type="button" class="btn-circle"></button>
+                    <button type="button" class="btn-circle"></button>
+                    <button type="button" class="btn-circle"></button>
+                    <button type="button" class="btn-circle"></button>
+                </div>-->
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Color</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.Colors)
+                                {
+                                    <input class="common_selector color" type="checkbox" value="@item.ID" data-id="@item.ID">
+                                    <label>@item.Name</label><br>
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Operating System</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.OpSystems)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector opSystem" type="checkbox" value="@item.ID" data-id="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Processors</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.Processors)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector processor" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by RAMs</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.RAMs)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector ram" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Storages</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.Storages)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector storage" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by SSDs</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.SSDs)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector ssd" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Graphics Cards</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.GraphicsCards)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector graphicsCard" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Style Joins</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.StyleJoins)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector styleJoin" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Front Cameras</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.FrontCameras)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector frontCamera" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="aside">
+                    <h3 class="aside-title">Filter by Rear Cameras</h3>
+                    <div class="scrolling-area">
+                        <div class="scrolling-element-inside">
+                            <div class="form-check">
+
+                                @foreach (var item in Model.ProductFilter.RearCameras)
+                                {
+                                    if (item.Name == "NULL")
+                                    {
+                                        continue;
+                                    }
+                                    else
+                                    {
+                                        <input class="common_selector rearCamera" type="checkbox" value="@item.ID">
+                                        <label>@item.Name</label><br>
+                                    }
+
+                                }
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                @*<div class="aside">
+                        <h3 class="aside-title">Filter By Size:</h3>
+                        <ul class="size-option">
+                            <li class="active"><a href="#">S</a></li>
+                            <li class="active"><a href="#">XL</a></li>
+                            <li><a href="#">SL</a></li>
+                        </ul>
+                    </div>
+
+                    <div class="aside">
+                        <h3 class="aside-title">Filter by Gender</h3>
+                        <ul class="list-links">
+                            <li class="active"><a href="#">Men</a></li>
+                            <li><a href="#">Women</a></li>
+                        </ul>
+                    </div>*@
+                <!-- /aside widget -->
+
+            </div>
+            <!-- /ASIDE -->
+            <!-- MAIN -->
+            <div id="main" class="col-md-9" style="padding-top: 13px">
+                <span id="productCount" style="font-weight:bold; font-size:18px"></span>
+
+                <!-- STORE -->
+                <div id="store">
+                    <!-- row -->
+                    <div class="row">
+
+                        <!-- Product Single -->
+
+                        <div class="row clickedProduct">
+
+                        </div>
+
+                        <!-- /Product Single -->
+                        <!-- Product Single -->
+                        @foreach (var item in Model.Products)
+                        {
+                            <div class="col-md-4 col-sm-6 col-xs-6 currentProduct">
+                                <div class="product product-single">
+                                    <div class="product-thumb">
+                                        <a id="image" asp-controller="Home" asp-action="ProductDetail" asp-route-id="@item.ID" data-id="@item.ID">
+                                            <img src="~/images/@item.MainImage" width="100%">
+                                            @*<img src="~/images/@item.MainImage" class="img-fluid img-thumbnail">*@
+                                        </a>
+                                    </div>
+                                    <div class="product-body">
+                                        <h3 class="product-price">@item.Price $</h3>
+                                        <div class="product-rating">
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star"></i>
+                                            <i class="fa fa-star-o empty"></i>
+                                        </div>
+                                        <h2 class="product-name text-overflow"><abbr title="@item.Name" style="text-decoration:none"><a id="image" asp-controller="Home" asp-action="ProductDetail" asp-route-id="@item.ID" data-id="@item.ID">@item.Name</a></abbr></h2>
+
+                                        <div class="product-btns">
+                                            <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
+                                            <button class="main-btn icon-btn"><i class="fa fa-exchange"></i></button>
+                                            <button id="addToCart" class="primary-btn add-to-cart" data-id="@item.ID"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                        <!-- /Product Single -->
+
+                        <div class="row pagedProduct">
+
+                        </div>
+
+                    </div>
+
+                    <div style="text-align:center">
+                        <nav>
+                            <ul class="pagination pagination-sm">
+                            </ul>
+                        </nav>
+                    </div>
+
+                    <!-- /row -->
+                </div>
+                <!-- /STORE -->
+            </div>
+            <!-- /MAIN -->
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /section -->
+
+<!-- Optional JavaScript; choose one of the two! -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"
+        integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script src="~/js/pagination.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous">
+</script>
+
+
+@section Scripts{
+
+    <script>
+
+        $(document).ready(function () {
+
+            //ProductDetail-----------------------------------------------------------------------------------//
+
+            $("#image").click(function () {
+                var _productID = $(this).attr("data-id");
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/ProductDetail",
+                    data: { id: _productID },
+
+                });
+            });
+
+            //Filter------------------------------------------------------------------------------------------//
+
+            //var neseID = $("#submenu").attr("data-id");
+
+            $(".common_selector").click(function () {
+                filter_data();
+                $(".currentProduct").remove();
+            });
+
+            function filter_data() {
+
+                var _submenuID = $("#submenu").attr("data-id");
+
+                var _brandID = get_filter("brand");
+                var _colorID = get_filter("color");
+                var _opSystemID = get_filter("opSystem");
+                var _processorID = get_filter("processor");
+                var _ramID = get_filter("ram");
+                var _storageID = get_filter("storage");
+                var _ssdID = get_filter("ssd");
+                var _graphicsCardID = get_filter("graphicsCard");
+                var _styleJoinID = get_filter("styleJoin");
+                var _frontCameraID = get_filter("frontCamera");
+                var _rearCameraID = get_filter("rearCamera");
+
+                var _minPrice = $(".minPrice").val();
+                var _maxPrice = $(".maxPrice").val();
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/SelectedProducts",
+                    data: { submenuID: _submenuID, brandID: _brandID, minPrice: _minPrice, maxPrice: _maxPrice, colorID: _colorID, opSystemID: _opSystemID, processorID: _processorID, ramID: _ramID, storageID: _storageID, ssdID: _ssdID, graphicsCardID: _graphicsCardID, styleJoinID: _styleJoinID, frontCameraID: _frontCameraID, rearCameraID: _rearCameraID },
+                    success: function (response) {
+
+                        $(".clickedProduct").html(response);
+                        $(".currentProduct").empty();
+                    }
+                });
+            };
+
+            function get_filter(className) {
+
+                var filter = [];
+
+                $("." + className + ":checked").each(function () {
+                    filter.push($(this).val());
+                });
+
+                return filter;
+            };
+
+            //Price-------------------------------------------------------------------------------------------//
+
+            $(".priceBtn").click(function () {
+
+                var _submenuID = $("#submenu").attr("data-id");
+
+                var _brandID = get_filter("brand");
+                var _colorID = get_filter("color");
+                var _opSystemID = get_filter("opSystem");
+                var _processorID = get_filter("processor");
+                var _ramID = get_filter("ram");
+                var _storageID = get_filter("storage");
+                var _ssdID = get_filter("ssd");
+                var _graphicsCardID = get_filter("graphicsCard");
+                var _styleJoinID = get_filter("styleJoin");
+                var _frontCameraID = get_filter("frontCamera");
+                var _rearCameraID = get_filter("rearCamera");
+
+                var _minPrice = $(".minPrice").val();
+                var _maxPrice = $(".maxPrice").val();
+
+                $.ajax({
+                    type: "POST",
+                    url: "/Home/SelectedProducts",
+                    data: { submenuID: _submenuID, brandID: _brandID, minPrice: _minPrice, maxPrice: _maxPrice, colorID: _colorID, opSystemID: _opSystemID, processorID: _processorID, ramID: _ramID, storageID: _storageID, ssdID: _ssdID, graphicsCardID: _graphicsCardID, styleJoinID: _styleJoinID, frontCameraID: _frontCameraID, rearCameraID: _rearCameraID },
+                    success: function (response) {
+
+                        $(".clickedProduct").html(response);
+                        $(".currentProduct").empty();
+                    }
+                });
+
+                function get_filter(className) {
+
+                    var filter = [];
+
+                    $("." + className + ":checked").each(function () {
+                        filter.push($(this).val());
+                    });
+
+                    return filter;
+                };
+
+            });
+
+        });
+
+        $("#productCount").append($(".currentProduct").length + " " + "results are listed for your search");
+
+
+        $("#addToCart").click(function () {
+            var _productID = $(this).attr("data-id");
+            alert(_productID);
+            //$.ajax({
+            //    type: "POST",
+            //    url: "/Home/ProductDetail",
+            //    data: { id: _productID },
+
+            //});
+        });
+
+    </script>
+
+}

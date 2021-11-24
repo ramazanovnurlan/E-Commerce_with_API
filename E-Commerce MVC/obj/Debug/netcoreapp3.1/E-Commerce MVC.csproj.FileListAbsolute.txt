@@ -1,0 +1,501 @@
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.exe
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csprojAssemblyReference.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorAssemblyInfo.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.TagHelpers.input.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.TagHelpers.output.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorCoreGenerate.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Commerce MVC.StaticWebAssets.Manifest.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Commerce MVC.StaticWebAssets.xml
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csproj.CopyComplete
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.deps.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.runtimeconfig.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.runtimeconfig.dev.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.Views.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.Views.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.Views.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.genruntimeconfig.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RegisterLoginLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\E-CommerceLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.exe
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.deps.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.runtimeconfig.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.runtimeconfig.dev.json
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.Views.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.Views.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csprojAssemblyReference.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorAssemblyInfo.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.TagHelpers.input.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.TagHelpers.output.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorCoreGenerate.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\E-CommerceLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RegisterLoginLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.Views.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csproj.CopyComplete
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Commerce MVC.StaticWebAssets.Manifest.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Commerce MVC.StaticWebAssets.xml
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.pdb
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.genruntimeconfig.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Shop.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetail.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SelectedProducts.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.exe
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.deps.json
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.runtimeconfig.json
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.runtimeconfig.dev.json
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.pdb
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.Views.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\E-Commerce MVC.Views.pdb
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csprojAssemblyReference.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.AssemblyInfoInputs.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.AssemblyInfo.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorAssemblyInfo.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.TagHelpers.input.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.TagHelpers.output.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorCoreGenerate.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Battery\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Battery\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Battery\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Battery\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Brand\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Color\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\FrontCamera\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\GraphicsCard\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Menu\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\OperatingSystem\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Processor\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductionYear\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductionYear\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductionYear\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ProductionYear\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Product\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RAM\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\RearCamera\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\AdminLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SSD\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Storage\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\StyleJoin\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Submenu\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\ProductDetail.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Shop.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\E-CommerceLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RegisterLoginLayout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\SelectedProducts.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorTargetAssemblyInfo.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.RazorTargetAssemblyInfo.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.Views.pdb
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csproj.CopyComplete
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Commerce MVC.StaticWebAssets.Manifest.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\staticwebassets\E-Commerce MVC.StaticWebAssets.xml
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.dll
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.pdb
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.genruntimeconfig.cache
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubmenuTitle\Index.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubmenuTitle\Create.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubmenuTitle\Edit.cshtml.g.cs
+C:\Users\Nurlan\Desktop\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\SubmenuTitle\Delete.cshtml.g.cs
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.csproj.CoreCompileInputs.cache
+C:\Users\Nurlan\Desktop\Full Stack\2. Back-End\2. Projects\E-Commerce\E-Commerce MVC\obj\Debug\netcoreapp3.1\E-Commerce MVC.MvcApplicationPartsAssemblyInfo.cache

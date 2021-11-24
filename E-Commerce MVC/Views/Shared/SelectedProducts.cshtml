@@ -1,0 +1,32 @@
+﻿@model E_Commerce_MVC.Areas.Admin.Models.AllMenu.ProductFilter
+
+@foreach (var item in Model.Products)
+{
+    <div class="col-md-4 col-sm-6 col-xs-6">
+        <div class="product product-single">
+            <div class="product-thumb">
+                <a id="image" asp-controller="Home" asp-action="ProductDetail" asp-route-id="@item.ID" data-id="@item.ID">
+                    <img src="~/images/@item.MainImage" width="100%">
+                    @*<img src="~/images/@item.MainImage" class="img-fluid img-thumbnail">*@
+                </a>
+            </div>
+            <div class="product-body">
+                <h3 class="product-price">@item.Price $</h3>
+                <div class="product-rating">
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star"></i>
+                    <i class="fa fa-star-o empty"></i>
+                </div>
+                <h2 class="product-name text-overflow"><abbr title="@item.Name" style="text-decoration:none"><a id="image" asp-controller="Home" asp-action="ProductDetail" asp-route-id="@item.ID" data-id="@item.ID">@item.Name</a></abbr></h2>
+
+                <div class="product-btns">
+                    <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
+                    <button class="main-btn icon-btn"><i class="fa fa-exchange"></i></button>
+                    <button class="primary-btn add-to-cart"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+                </div>
+            </div>
+        </div>
+    </div>
+}

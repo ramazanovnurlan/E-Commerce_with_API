@@ -1,0 +1,50 @@
+﻿@model E_Commerce_MVC.Models.Account.Register
+
+@{
+    ViewData["Title"] = "Register";
+    Layout = "~/Views/Shared/RegisterLoginLayout.cshtml";
+}
+
+<div class="row justify-content-center">
+    <div class="col-md-4 signup-form">
+        <form asp-action="Register">
+
+            <h2>Create an Account</h2>
+
+            <div class="form-group">
+                <input asp-for="FirstName" class="form-control" placeholder="First Name" />
+                <span asp-validation-for="FirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="LastName" class="form-control" placeholder="Last Name" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="UserName" class="form-control" placeholder="Username" />
+                <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="Email" class="form-control" placeholder="Email" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input asp-for="Password" class="form-control" placeholder="Password" />
+                @*<small class="form-text text-muted">fbghb</small>*@
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+
+            <div asp-validation-summary="ModelOnly" class="text-danger errorMessage"></div>
+
+            <div class="form-group">
+                <input type="submit" value="Sign up" class="btn btn-lg btn-block signup-btn" />
+                <div class="text-center">Already have an account? <a asp-controller="Account" asp-action="Login">Sign in here</a></div>
+            </div>
+
+        </form>
+    </div>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

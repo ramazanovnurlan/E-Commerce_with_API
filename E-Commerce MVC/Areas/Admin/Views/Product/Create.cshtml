@@ -1,0 +1,338 @@
+﻿@model E_Commerce_MVC.Areas.Admin.Models.AllMenu.Product
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+<h2>Create Product</h2>
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+<hr />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-area="Admin" asp-controller="Product" asp-action="Create" method="post" enctype="multipart/form-data">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="MenuID" class="control-label">Enter Menu</label>
+                <select asp-for="MenuID" id="menu" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Menu</option>
+                </select>
+                <span asp-validation-for="MenuID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SubmenuID" class="control-label">Enter Submenu</label>
+                <select asp-for="SubmenuID" id="submenu" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Submenu</option>
+                </select>
+                <span asp-validation-for="SubmenuID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BrandID" class="control-label">Enter Brand</label>
+                <select asp-for="BrandID" id="brand" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Brand</option>
+                </select>
+                <span asp-validation-for="BrandID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Enter Product Name</label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label">Enter Product Description</label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label">Enter Product Price</label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProductionYear" class="control-label">Enter Product ProductionYear</label>
+                <input asp-for="ProductionYear" class="form-control" />
+                <span asp-validation-for="ProductionYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="MainImage" class="control-label"></label>
+                <input asp-for="MainImage" type="file" name="photo" class="form-control" />
+                <span asp-validation-for="MainImage" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Pictures" class="control-label"></label>
+                <input asp-for="Pictures" type="file" name="photos" multiple="multiple" class="form-control" />
+                <span asp-validation-for="Pictures" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ColorID" class="control-label">Enter Product Color</label>
+                <select asp-for="ColorID" id="color" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Color</option>
+                </select>
+                <span asp-validation-for="ColorID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="OpSystemID" class="control-label">Enter Product Operating System</label>
+                <select asp-for="OpSystemID" id="opSystem" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Operating System</option>
+                </select>
+                <span asp-validation-for="OpSystemID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProcessorID" class="control-label">Enter Product Processor</label>
+                <select asp-for="ProcessorID" id="processor" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Processor</option>
+                </select>
+                <span asp-validation-for="ProcessorID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RAMID" class="control-label">Enter Product RAM</label>
+                <select asp-for="RAMID" id="ram" class="form-control">
+                    <option selected="true" disabled="disabled">Choose RAM</option>
+                </select>
+                <span asp-validation-for="RAMID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StorageID" class="control-label">Enter Product Storage</label>
+                <select asp-for="StorageID" id="storage" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Storage</option>
+                </select>
+                <span asp-validation-for="StorageID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SSDID" class="control-label">Enter Product SSD</label>
+                <select asp-for="SSDID" id="ssd" class="form-control">
+                    <option selected="true" disabled="disabled">Choose SSD</option>
+                </select>
+                <span asp-validation-for="SSDID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GraphicsCardID" class="control-label">Enter Product GraphicsCard</label>
+                <select asp-for="GraphicsCardID" id="graphicsCard" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Graphics Card</option>
+                </select>
+                <span asp-validation-for="GraphicsCardID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="StyleJoinID" class="control-label">Enter Product StyleJoin</label>
+                <select asp-for="StyleJoinID" id="styleJoin" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Style Join</option>
+                </select>
+                <span asp-validation-for="StyleJoinID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="FrontCameraID" class="control-label">Enter Product FrontCamera</label>
+                <select asp-for="FrontCameraID" id="frontCamera" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Front Camera</option>
+                </select>
+                <span asp-validation-for="FrontCameraID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RearCameraID" class="control-label">Enter Product RearCamera</label>
+                <select asp-for="RearCameraID" id="rearCamera" class="form-control">
+                    <option selected="true" disabled="disabled">Choose Rear Camera</option>
+                </select>
+                <span asp-validation-for="RearCameraID" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Battery" class="control-label">Enter Product Battery</label>
+                <input asp-for="Battery" class="form-control" />
+                <span asp-validation-for="Battery" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+
+    <script>
+
+        $(document).ready(function () {
+
+            //GetAllMenus-------------------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllMenus",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#menu").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+
+            });
+
+            //GetAllSubmenus---------------------------------------------------------------------------------//
+
+            $("#menu").change(function () {
+                var selectedId = $(this).val();
+                $("#submenu").empty();
+                $("#brand").empty();
+
+                $.ajax({
+                    type: "Post",
+                    url: "/Admin/Product/GetAllSubmenus",
+                    data: { id: selectedId },
+                    success: function (response) {
+                        for (let f of response) {
+                            $("#submenu").append(`<option value=${f.id}>${f.name}</option>`);
+                        }
+                    }
+                });
+            });
+
+            //GetAllBrands---------------------------------------------------------------------------------//
+
+            $("#submenu").change(function () {
+                var selectedId = $(this).val();
+                $("#brand").empty();
+
+                $.ajax({
+                    type: "Post",
+                    url: "/Admin/Product/GetAllBrands",
+                    data: { id: selectedId },
+                    success: function (response) {
+                        for (let f of response) {
+                            $("#brand").append(`<option value=${f.id}>${f.name}</option>`);
+                        }
+                    }
+                });
+            });
+
+            //GetAllColors---------------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllColors",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#color").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllOpSystems-----------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllOperatingSystems",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#opSystem").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllProcessors---------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllProcessors",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#processor").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllRAMs---------------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllRAMs",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#ram").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllStorages-----------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllStorages",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#storage").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllSSDs---------------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllSSDs",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#ssd").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllGraphicsCards------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllGraphicsCards",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#graphicsCard").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllStyleJoins-------------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllStyleJoins",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#styleJoin").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllFrontCameras----------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllFrontCameras",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#frontCamera").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+            //GetAllRearCameras-----------------------------------------------------------------------//
+
+            $.ajax({
+                type: "Get",
+                url: "/Admin/Product/GetAllRearCameras",
+                success: function (response) {
+                    for (let f of response) {
+                        $("#rearCamera").append(`<option value=${f.id}>${f.name}</option>`);
+                    }
+                }
+            });
+
+        });
+
+
+    </script>
+
+}

@@ -1,0 +1,596 @@
+﻿@model IEnumerable<E_Commerce_MVC.Areas.Admin.Models.AllMenu.Product>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/E-CommerceLayout.cshtml";
+}
+
+<!-- NAVIGATION -->
+<div id="navigation">
+    <!-- container -->
+    <div class="container">
+        <div id="responsive-nav">
+            <!-- category nav -->
+            <div class="category-nav">
+                <span class="category-header">Categories <i class="fa fa-list"></i></span>
+                <ul class="category-list">
+                    <li class="dropdown side-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Fashion <i class="fa fa-angle-right"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row hidden-sm hidden-xs">
+                                <div class="col-md-12">
+                                    <hr>
+                                    <a class="banner banner-1" href="#">
+                                        <img src="~/img/banner5.jpg" alt="">
+                                        <div class="banner-caption text-center">
+                                            <h2 class="white-color">NEW COLLECTION</h2>
+                                            <h3 class="white-color font-weak">HOT DEAL</h3>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="dropdown side-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Electronics <i class="fa fa-angle-right"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Small Appliances</h3>
+                                        </li>
+                                        <li><a href="#">Coffee machine</a></li>
+                                        <li><a href="#">Tea machine</a></li>
+                                        <li><a href="#">Blender</a></li>
+                                        <li><a href="#">Toast machine</a></li>
+                                        <li><a href="#">Waffle Maker</a></li>
+                                        <li><a href="#">Iron</a></li>
+                                        <li><a href="#">Robot Vacuum Cleaner</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Telephone</h3>
+                                        </li>
+                                        <li><a href="#">Mobile phones</a></li>
+                                        <li><a href="#">Cover & Case</a></li>
+                                        <li><a href="#">Chargers</a></li>
+                                        <li><a href="#">Powerbank</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Computer & Tablet</h3>
+                                        </li>
+                                        <li><a href="#">Laptop</a></li>
+                                        <li><a href="#">Mouse</a></li>
+                                        <li><a href="#">Keyboard</a></li>
+                                        <li><a href="#">Tablet</a></li>
+                                        <li><a href="#">Gaming PC</a></li>
+                                        <li><a href="#">ADSL & VDSL</a></li>
+                                        <li><a href="#">Accessories</a></li>
+                                        <li><a href="#">Cable & Chargers</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Game Consoles</h3>
+                                        </li>
+                                        <li><a href="#">Playstation</a></li>
+                                        <li><a href="#">Xbox</a></li>
+                                        <li><a href="#">Nintendo</a></li>
+                                        <li><a href="#">Console Accessories</a></li>
+                                        <li><a href="#">E-pin and Wallet Code</a></li>
+                                        <li><a href="#">Playstation 5</a></li>
+                                        <li><a href="#">Playstation Games</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Personal care</h3>
+                                        </li>
+                                        <li><a href="#">Hair Straightener</a></li>
+                                        <li><a href="#">Shaving Machine</a></li>
+                                        <li><a href="#">Hair Curler</a></li>
+                                        <li><a href="#">Hair dryer</a></li>
+                                        <li><a href="#">Hair Removal Tool</a></li>
+                                        <li><a href="#">Playstation Games</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Household appliances</h3>
+                                        </li>
+                                        <li><a href="#">Refrigerator</a></li>
+                                        <li><a href="#">Washing machine</a></li>
+                                        <li><a href="#">Dishwasher</a></li>
+                                        <li><a href="#">Built-in</a></li>
+                                        <li><a href="#">Mini Oven</a></li>
+                                        <li><a href="#">Air conditioning</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">TV & Sound</h3>
+                                        </li>
+                                        <li><a href="#">Television</a></li>
+                                        <li><a href="#">Headphone</a></li>
+                                        <li><a href="#">Speaker</a></li>
+                                        <li><a href="#">Cable</a></li>
+                                        <li><a href="#">Microphone</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Data Storage</h3>
+                                        </li>
+                                        <li><a href="#">External Disk</a></li>
+                                        <li><a href="#">USB Memory</a></li>
+                                        <li><a href="#">SSD Memory</a></li>
+                                        <li><a href="#">Memory card</a></li>
+                                    </ul>
+                                </div>
+
+                                @*<div class="col-md-4 hidden-sm hidden-xs">
+                                        <a class="banner banner-2" href="#">
+                                            <img src="./img/banner04.jpg" alt="">
+                                            <div class="banner-caption">
+                                                <h3 class="white-color">NEW<br>COLLECTION</h3>
+                                            </div>
+                                        </a>
+                                    </div>*@
+
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">HOME & LIVE</a></li>
+                    <li><a href="#">Health & Beauty</a></li>
+                    <li class="dropdown side-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Jewelry & Watches <i class="fa fa-angle-right"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">View All</a></li>
+                </ul>
+            </div>
+            <!-- /category nav -->
+            <!-- menu nav -->
+            <div class="menu-nav">
+                <span class="menu-header">Menu <i class="fa fa-bars"></i></span>
+                <ul class="menu-list">
+                    <li class="dropdown mega-dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Fashion <i class="fa fa-angle-down"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                    <hr class="hidden-md hidden-lg">
+                                </div>
+                                <div class="col-md-4">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title">Categories</h3>
+                                        </li>
+                                        <li><a href="#">Women’s Clothing</a></li>
+                                        <li><a href="#">Men’s Clothing</a></li>
+                                        <li><a href="#">Phones & Accessories</a></li>
+                                        <li><a href="#">Jewelry & Watches</a></li>
+                                        <li><a href="#">Bags & Shoes</a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                            <div class="row hidden-sm hidden-xs">
+                                <div class="col-md-12">
+                                    <hr>
+                                    <a class="banner banner-1" href="#">
+                                        <img src="~/img/banner05.jpg" alt="">
+                                        <div class="banner-caption text-center">
+                                            <h2 class="white-color">NEW COLLECTION</h2>
+                                            <h3 class="white-color font-weak">HOT DEAL</h3>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="dropdown mega-dropdown full-width">
+                        <a class="dropdown-toggle" data-toggle="dropdown" aria-expanded="true">Electronics <i class="fa fa-angle-down"></i></a>
+                        <div class="custom-menu">
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Telephone</a></h3>
+                                        </li>
+                                        <li><a href="#">Mobile phones</a></li>
+                                        <li><a href="#">Cover & Case</a></li>
+                                        <li><a href="#">Chargers</a></li>
+                                        <li><a href="#">Powerbank</a></li>
+                                        <li><a href="#">Accessories</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Computer & Tablet</a></h3>
+                                        </li>
+                                        <li><a href="#">Laptop</a></li>
+                                        <li><a href="#">Mouse</a></li>
+                                        <li><a href="#">Keyboard</a></li>
+                                        <li><a href="#">Tablet</a></li>
+                                        <li><a href="#">Gaming PC</a></li>
+                                        <li><a href="#">ADSL & VDSL</a></li>
+                                        <li><a href="#">Accessories</a></li>
+                                        <li><a href="#">Cable & Chargers</a></li>
+                                    </ul>
+                                </div>
+
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Small Appliances</a></h3>
+                                        </li>
+                                        <li><a href="#">Coffee machine</a></li>
+                                        <li><a href="#">Tea machine</a></li>
+                                        <li><a href="#">Blender</a></li>
+                                        <li><a href="#">Toast machine</a></li>
+                                        <li><a href="#">Waffle Maker</a></li>
+                                        <li><a href="#">Iron</a></li>
+                                        <li><a href="#">Kettle & Kettle</a></li>
+                                        <li><a href="#">Broom</a></li>
+                                        <li><a href="#">Robot Vacuum Cleaner</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">TV & Sound</a></h3>
+                                        </li>
+                                        <li><a href="#">Television</a></li>
+                                        <li><a href="#">Headphone</a></li>
+                                        <li><a href="#">Speaker</a></li>
+                                        <li><a href="#">Cable</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Game Consoles</a></h3>
+                                        </li>
+                                        <li><a href="#">Playstation</a></li>
+                                        <li><a href="#">Xbox</a></li>
+                                        <li><a href="#">Nintendo</a></li>
+                                        <li><a href="#">Console Accessories</a></li>
+                                        <li><a href="#">E-pin and Wallet Code</a></li>
+                                        <li><a href="#">Playstation 5</a></li>
+                                        <li><a href="#">Playstation Games</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Household appliances</a></h3>
+                                        </li>
+                                        <li><a href="#">Refrigerator</a></li>
+                                        <li><a href="#">Washing machine</a></li>
+                                        <li><a href="#">Dishwasher</a></li>
+                                        <li><a href="#">Built-in</a></li>
+                                        <li><a href="#">Mini Oven</a></li>
+                                        <li><a href="#">Air conditioning</a></li>
+                                    </ul>
+                                </div>
+                                <div class="col-md-3">
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Personal care</a></h3>
+                                        </li>
+                                        <li><a href="#">Hair Straightener</a></li>
+                                        <li><a href="#">Shaving Machine</a></li>
+                                        <li><a href="#">Hair Curler</a></li>
+                                        <li><a href="#">Hair Dryer</a></li>
+                                        <li><a href="#">Hair Removal Tool</a></li>
+                                    </ul>
+                                    <hr>
+                                    <ul class="list-links">
+                                        <li>
+                                            <h3 class="list-links-title"><a href="#">Data Storage</a></h3>
+                                        </li>
+                                        <li><a href="#">External Disk</a></li>
+                                        <li><a href="#">USB Memory</a></li>
+                                        <li><a href="#">SSD Memory</a></li>
+                                        <li><a href="#">Memory Card</a></li>
+                                    </ul>
+                                </div>
+
+                            </div>
+                        </div>
+                    </li>
+                    <li><a href="#">HOME & LIVE</a></li>
+                    <li><a href="#">Health & Beauty</a></li>
+                    <li><a href="#">JEWELRY & WATCHES</a></li>
+
+                </ul>
+            </div>
+            <!-- menu nav -->
+        </div>
+    </div>
+    <!-- /container -->
+</div>
+<!-- /NAVIGATION -->
+<!-- HOME -->
+<div id="home">
+    <!-- container -->
+    <div class="container">
+        <!-- home wrap -->
+        <div class="home-wrap">
+            <!-- home slick -->
+            <div id="home-slick">
+                <!-- banner -->
+                <div class="banner banner-1">
+                    <img src="~/img/banner01.jpg" alt="">
+                    <div class="banner-caption text-center">
+                        <h1>Bags sale</h1>
+                        <h3 class="white-color font-weak">Up to 50% Discount</h3>
+                        <button class="primary-btn">Shop Now</button>
+                    </div>
+                </div>
+                <!-- /banner -->
+                <!-- banner -->
+                <div class="banner banner-1">
+                    <img src="~/img/banner02.jpg" alt="">
+                    <div class="banner-caption">
+                        <h1 class="primary-color">HOT DEAL<br><span class="white-color font-weak">Up to 50% OFF</span></h1>
+                        <button class="primary-btn">Shop Now</button>
+                    </div>
+                </div>
+                <!-- /banner -->
+                <!-- banner -->
+                <div class="banner banner-1">
+                    <img src="~/img/banner03.jpg" alt="">
+                    <div class="banner-caption">
+                        <h1 class="white-color">New Product <span>Collection</span></h1>
+                        <button class="primary-btn">Shop Now</button>
+                    </div>
+                </div>
+                <!-- /banner -->
+            </div>
+            <!-- /home slick -->
+        </div>
+        <!-- /home wrap -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /HOME -->
+<!-- section -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+        <!-- row -->
+        <div class="row">
+            <!-- banner -->
+            <div class="col-md-4 col-sm-6">
+                <a class="banner banner-1" href="#">
+                    <img src="~/img/banner10.jpg" alt="">
+                    <div class="banner-caption text-center">
+                        <h2 class="white-color">NEW COLLECTION</h2>
+                    </div>
+                </a>
+            </div>
+            <!-- /banner -->
+            <!-- banner -->
+            <div class="col-md-4 col-sm-6">
+                <a class="banner banner-1" href="#">
+                    <img src="~/img/banner11.jpg" alt="">
+                    <div class="banner-caption text-center">
+                        <h2 class="white-color">NEW COLLECTION</h2>
+                    </div>
+                </a>
+            </div>
+            <!-- /banner -->
+            <!-- banner -->
+            <div class="col-md-4 col-md-offset-0 col-sm-6 col-sm-offset-3">
+                <a class="banner banner-1" href="#">
+                    <img src="~/img/banner12.jpg" alt="">
+                    <div class="banner-caption text-center">
+                        <h2 class="white-color">NEW COLLECTION</h2>
+                    </div>
+                </a>
+            </div>
+            <!-- /banner -->
+
+        </div>
+        <!-- /row -->
+    </div>
+    <!-- /container -->
+</div>
+<!-- /section -->
+<!-- section -->
+<div class="section">
+    <!-- container -->
+    <div class="container">
+
+        <!-- row -->
+        <div class="row">
+            <!-- section title -->
+            <div class="col-md-12">
+                <div class="section-title">
+                    <h2 class="title">All Products</h2>
+                </div>
+            </div>
+            <!-- section title -->
+            <!-- Product Single -->
+
+            @foreach (var item in Model)
+            {
+                <div class="col-md-3 col-sm-6 col-xs-6">
+                    <div class="product product-single">
+                        <a id="image" asp-controller="Home" asp-action="ProductDetail" asp-route-id="@item.ID" data-id="@item.ID">
+                            <img src="~/images/@item.MainImage" width="100%">
+                        </a>
+                        <div class="product-body">
+                            <h3 class="product-price">@item.Price $</h3>
+                            <div class="product-rating">
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star"></i>
+                                <i class="fa fa-star-o empty"></i>
+                            </div>
+                            <h2 class="product-name text-overflow"><abbr title="@item.Name" style="text-decoration:none"><a id="image" asp-controller="Home" asp-action="ProductDetail" asp-route-id="@item.ID" data-id="@item.ID">@item.Name</a></abbr></h2>
+
+                            <div class="product-btns">
+                                <button class="main-btn icon-btn"><i class="fa fa-heart"></i></button>
+                                <button class="main-btn icon-btn"><i class="fa fa-exchange"></i></button>
+                                <button class="primary-btn add-to-cart"><i class="fa fa-shopping-cart"></i> Add to Cart</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+
+            <!-- /Product Single -->
+
+        </div>
+        <!-- /row -->
+
+    </div>
+    <!-- /container -->
+</div>
+<!-- /section -->

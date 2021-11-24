@@ -1,0 +1,415 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin</title>
+
+    <link rel="stylesheet" href="~/assets/css/bootstrap.css">
+
+    <link rel="stylesheet" href="~/assets/vendors/chartjs/Chart.min.css">
+
+    <link rel="stylesheet" href="~/assets/vendors/perfect-scrollbar/perfect-scrollbar.css">
+    <link rel="stylesheet" href="~/assets/css/app.css">
+    <link rel="shortcut icon" href="~/assets/images/favicon.svg" type="image/x-icon">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/MaterialDesign-Webfont/5.9.55/css/materialdesignicons.min.css" rel="stylesheet" />
+
+    <style>
+
+        .text-danger ul li {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .table {
+            display: block;
+            margin: 0 auto;
+            overflow-x: auto;
+            white-space: nowrap;
+        }
+
+        th, td {
+            text-align: left;
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        tr:nth-child(even) {
+            background-color: #f2f2f2
+        }
+
+        .btn-default {
+            background-color: #55BEFFFF;
+            color: white;
+        }
+
+        .btn:focus, .btn:active {
+            outline: none !important;
+            box-shadow: none;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    <div id="app">
+        <div id="sidebar" class='active'>
+            <div class="sidebar-wrapper active">
+                <div class="sidebar-header">
+
+                    <div class="userPicture">
+                        <img src="~/assets/images/Nurlan.jpg" style="width: 130px; height: 140px; border-radius: 50%; text-align: center;">
+                    </div>
+
+                    <span>Nurlan Ramazanov</span>
+                </div>
+
+                <div class="sidebar-menu">
+                    <ul class="menu">
+
+                        <li class='sidebar-title'>Main Menu</li>
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Menus</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="Menu" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="Menu" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Submenus</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="Submenu" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="Submenu" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Brands</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="Brand" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="Brand" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Colors</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="Color" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="Color" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Operating Systems</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="OperatingSystem" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="OperatingSystem" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Processors</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="Processor" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="Processor" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>RAMs</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="RAM" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="RAM" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Storages</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="Storage" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="Storage" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>SSDs</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="SSD" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="SSD" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>GraphicsCards</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="GraphicsCard" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="GraphicsCard" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>StyleJoins</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="StyleJoin" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="StyleJoin" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>FrontCameras</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="FrontCamera" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="FrontCamera" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>RearCameras</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="RearCamera" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="RearCamera" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                        <li class='sidebar-title'>Products add</li>
+
+                        <li class="sidebar-item active has-sub">
+                            <a href="#" class='sidebar-link'>
+                                <i data-feather="file-text" width="20"></i>
+                                <span>Product</span>
+                            </a>
+
+                            <ul class="submenu active">
+
+                                <li>
+                                    <a asp-controller="Product" asp-action="Index">Index</a>
+                                </li>
+
+                                <li>
+                                    <a asp-controller="Product" asp-action="Create">Create</a>
+                                </li>
+
+                            </ul>
+
+                        </li>
+
+
+                    </ul>
+                </div>
+                <button class="sidebar-toggler btn x"><i data-feather="x"></i></button>
+            </div>
+        </div>
+        <div id="main">
+            <nav class="navbar navbar-header navbar-expand navbar-light">
+                <a class="sidebar-toggler" href="#"><span class="navbar-toggler-icon"></span></a>
+                <button class="btn navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </nav>
+
+            <div class="main-content container-fluid">
+                <section class="section">
+                    <div class="row">
+                        <div class="col-12 ">
+
+                            <div class="card">
+                                <div class="card-header">
+
+                                    @RenderBody()
+
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+
+                </section>
+            </div>
+
+        </div>
+    </div>
+    <script src="~/assets/js/feather-icons/feather.min.js"></script>
+    <script src="~/assets/vendors/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+    <script src="~/assets/js/app.js"></script>
+
+    <script src="~/assets/js/main.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
